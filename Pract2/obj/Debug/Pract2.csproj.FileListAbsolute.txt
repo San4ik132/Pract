@@ -1,0 +1,8 @@
+C:\Users\egory\Desktop\Практика 4-курс\Pract2\obj\Debug\Pract2.csproj.AssemblyReference.cache
+C:\Users\egory\Desktop\Практика 4-курс\Pract2\obj\Debug\Pract2.csproj.SuggestedBindingRedirects.cache
+C:\Users\egory\Desktop\Практика 4-курс\Pract2\obj\Debug\Pract2.csproj.CoreCompileInputs.cache
+C:\Users\egory\Desktop\Практика 4-курс\Pract2\bin\Debug\Pract2.exe.config
+C:\Users\egory\Desktop\Практика 4-курс\Pract2\bin\Debug\Pract2.exe
+C:\Users\egory\Desktop\Практика 4-курс\Pract2\bin\Debug\Pract2.pdb
+C:\Users\egory\Desktop\Практика 4-курс\Pract2\obj\Debug\Pract2.exe
+C:\Users\egory\Desktop\Практика 4-курс\Pract2\obj\Debug\Pract2.pdb

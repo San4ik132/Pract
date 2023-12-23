@@ -1,0 +1,8 @@
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract9_10_11_12\bin\Debug\Pract9_10_11_12.exe.config
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract9_10_11_12\bin\Debug\Pract9_10_11_12.exe
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract9_10_11_12\bin\Debug\Pract9_10_11_12.pdb
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract9_10_11_12\obj\Debug\Pract9_10_11_12.csproj.AssemblyReference.cache
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract9_10_11_12\obj\Debug\Pract9_10_11_12.csproj.SuggestedBindingRedirects.cache
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract9_10_11_12\obj\Debug\Pract9_10_11_12.csproj.CoreCompileInputs.cache
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract9_10_11_12\obj\Debug\Pract9_10_11_12.exe
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract9_10_11_12\obj\Debug\Pract9_10_11_12.pdb
