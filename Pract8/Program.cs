@@ -106,7 +106,7 @@ namespace Pract8
             MaxQuerySolver solver = new MaxQuerySolver(ints);
             var indexMass = solver.GetMaxInRangeIndex(0, ints.Length - 1);
             Console.WriteLine(solver.blockSize);
-            Console.WriteLine($"Максимальное значение: {ints[indexMass]}, рассположено на позиции: {indexMass}");
+            Console.WriteLine($"Максимальное значение: {Array.IndexOf(ints, indexMass)}, рассположено на позиции: {indexMass}");
         }
     }
     
