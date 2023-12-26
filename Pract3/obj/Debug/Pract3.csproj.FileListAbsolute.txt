@@ -1,0 +1,16 @@
+C:\Users\egory\Desktop\Практика 4-курс\Pract3\bin\Debug\Pract3.exe.config
+C:\Users\egory\Desktop\Практика 4-курс\Pract3\bin\Debug\Pract3.exe
+C:\Users\egory\Desktop\Практика 4-курс\Pract3\bin\Debug\Pract3.pdb
+C:\Users\egory\Desktop\Практика 4-курс\Pract3\obj\Debug\Pract3.csproj.AssemblyReference.cache
+C:\Users\egory\Desktop\Практика 4-курс\Pract3\obj\Debug\Pract3.csproj.SuggestedBindingRedirects.cache
+C:\Users\egory\Desktop\Практика 4-курс\Pract3\obj\Debug\Pract3.csproj.CoreCompileInputs.cache
+C:\Users\egory\Desktop\Практика 4-курс\Pract3\obj\Debug\Pract3.exe
+C:\Users\egory\Desktop\Практика 4-курс\Pract3\obj\Debug\Pract3.pdb
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract3\bin\Debug\Pract3.exe.config
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract3\bin\Debug\Pract3.exe
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract3\bin\Debug\Pract3.pdb
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract3\obj\Debug\Pract3.csproj.AssemblyReference.cache
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract3\obj\Debug\Pract3.csproj.SuggestedBindingRedirects.cache
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract3\obj\Debug\Pract3.csproj.CoreCompileInputs.cache
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract3\obj\Debug\Pract3.exe
+D:\4 - kurs\Практика + код прошлого\Практика 4-курс\Pract3\obj\Debug\Pract3.pdb
